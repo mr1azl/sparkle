@@ -18,7 +18,7 @@ resolvers ++= Seq(
 
 
 libraryDependencies ++= Seq(
-  "io.argonaut" %% "argonaut" % "6.0.4"
+  "io.argonaut" %% "argonaut" % "6.0.4",
   "com.typesafe" % "config" % "1.2.1",
   "org.specs2" %% "specs2" % "2.3.4" % "test",
   "org.mockito" % "mockito-core" % "1.9.5" % "test",
